@@ -1,0 +1,9 @@
+﻿yfinance==1.2.0
+pandas==2.1.4
+numpy==1.26.2
+matplotlib==3.8.2
+seaborn==0.13.0
+pymongo==4.15.1
+boto3==1.42.53
+requests==2.32.3
+jupyter==1.0.0

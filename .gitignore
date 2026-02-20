@@ -1,0 +1,29 @@
+﻿# Data files
+*.csv
+*.json
+data/raw/*
+data/processed/*
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+venv/
+.venv
+
+# Jupyter
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# AWS credentials
+*.pem
+credentials.json
+
+# MongoDB
+*.bson
+
+# OS
+.DS_Store
+Thumbs.db
